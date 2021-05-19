@@ -88,9 +88,3 @@ open class Main: UIViewController, UIGestureRecognizerDelegate {
         page.navigateTo(page: .next)
     }
 }
-
-
-
-
-
-
