@@ -65,13 +65,3 @@ open class ThanksAndGoodbye: UIViewController, UIGestureRecognizerDelegate {
         
     }
 }
-
-
-
-
-
-
-
-
-
-
