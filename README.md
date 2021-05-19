@@ -1,6 +1,8 @@
 # Estelita & Josefa PlaygroundBook 
-![playgroundBook Cover](httpshttps://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Files/Images/Cover-git.png)
-This PlaygroundBook was developed to WWDC 2021 Swift Student Challgenge. 
+
+![Cover-git](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Files/Images/Cover-git.png)
+
+This PlaygroundBook(https://www.apple.com/swift/playgrounds/) was developed to WWDC 2021 [Swift Student Challenge 2021](https://developer.apple.com/wwdc21/swift-student-challenge/).
 
 1. How it works(#Documentation)
 2. License
