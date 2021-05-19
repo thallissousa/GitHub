@@ -140,6 +140,3 @@ open class DragDrop: UIViewController, UIGestureRecognizerDelegate {
     }
     
 }
-
-
-
