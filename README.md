@@ -1,6 +1,6 @@
 # Estelita & Josefa PlaygroundBook 
 
-![Cover-git](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Files/Images/Cover-git.png)
+![Cover-git](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Estelita%20%26%20Josefa/Files/Images/Cover-git.png)
 
 This [PlaygroundBook](https://www.apple.com/swift/playgrounds/) was developed to WWDC 2021 [Swift Student Challenge 2021](https://developer.apple.com/wwdc21/swift-student-challenge/).
 
@@ -9,7 +9,7 @@ This [PlaygroundBook](https://www.apple.com/swift/playgrounds/) was developed to
 3. [Author](#Author)
 
 ## How the interaction works
-![video](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Files/Documentation/Interaction.gif)
+![video](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/Estelita%20%26%20Josefa/Files/Documentation/Interaction.gif)
 
 ## License
 This project is licensed by [MIT License](https://github.com/thallissousa/Swift-Student-Challenge-2021/blob/main/LICENSE).
